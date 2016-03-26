@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The New Yath Metal Blog]]></title>
+        <description><![CDATA[The New Yath Metal Blog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Mar 2016 16:39:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Qui Sommes Nous?Juste un fan de Metal depuis de nombreuses années, passionné par l'énergie de cette musique et sa richesse. Même si ma passion pour la musique touche d'autres style, à la fin de la journée, je reviens toujours vers ce style chéri, et que j'ai adopté dès le milieu des années 90 (oui, j'ai commencé TRÈS jeune). </p>]]></description>
+            <link>undefined8ee3dafa-6015-4d4b-896e-34877ab26983/index.html</link>
+            <guid isPermaLink="false">8ee3dafa-6015-4d4b-896e-34877ab26983</guid>
+            <pubDate>Sat, 26 Mar 2016 16:39:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
