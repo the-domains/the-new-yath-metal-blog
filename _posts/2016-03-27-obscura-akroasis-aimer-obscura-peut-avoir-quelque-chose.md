@@ -1,0 +1,20 @@
+---
+description: OBSCURA - AKROASIS    Aimer OBSCURA peut avoir quelque chose d’assez étonnant pour moi. Pour un bouseux qui aime quand c’est crade et que ça dégouline de partou
+author: []
+datePublished: '2016-03-27T16:31:08.998Z'
+publisher:
+  domain: yathblog.blogspot.fr
+  name: yathblogspot.fr
+dateModified: '2016-03-27T16:27:53.108Z'
+title: ''
+sourcePath: _posts/2016-03-27-obscura-akroasis-aimer-obscura-peut-avoir-quelque-chose.md
+published: true
+inFeed: true
+hasPage: true
+inNav: false
+url: obscura-akroasis-aimer-obscura-peut-avoir-quelque-chose/index.html
+_context: 'http://schema.org'
+_type: Article
+
+---
+OBSCURA - AKROASIS Aimer OBSCURA peut avoir quelque chose d'assez étonnant pour moi. Pour un bouseux qui aime quand c'est crade et que ça dégouline de partout, supporter un déluge technique aussi violent et massif une heure durant peut devenir aussi insupportable qu'un abonné Telerama fan de Ghost.  Oui mais voilà, la vie n'est jamais aussi simple, et parfois, le compliqué peut se mêler à l'instinct, et le délire technique peut susciter une émotion forte, primitive. Et c'est exactement ce que je ressens à l'écoute d'OBSCURA. Attention, les allemands sont loin d'être les inventeurs du style, et rendons tout de suite à César ce qui est à César : le maître incontesté et incontestable de cette alliance Death/Technique reste Chuck Schuldiner avec DEATH.  Bien entendu, on est obligé de citer les mythiques ATHEIST et CYNIC également, même si leur impact restera inférieur à celui de DEATH. Bref, OBSCURA fait partie d'une lignée bien identifiée d'un Death Metal technique et puissant à la fois, réconciliant enfin les bouseux et les nerds. Et si certains groupes du genre peuvent me tuer (NECROPHAGIST,  Aïe), OBSCURA me régale. En fait, mon histoire d'amour avec OBSCURA a commencé avec le premier morceau de leur précédent disque, Omnivium (alors que tout le monde les avait déjà remarqués avec l'album précédent, le non moins fabuleux Cosmogenesis, la loose). Ce fameux morceaux donc, "Septuagint", résume parfaitement OBSCURA, et m'avait littéralement pris à la gorge. Le reste de l'album est tout aussi excitant que ce premier titre.  Cinq ans plus tard, OBSCURA revient donc avec une lourde tâche comme on dit : succéder à un chef-d'œuvre unanimement reconnu. Surtout que le guitariste Steffen Kummerer s'était retrouvé tout seul puisque les autres membres du groupe sont allés former Alkaloid, groupe de Metal technique, mais dont le premier album est beaucoup moins "Death" qu'OBSCURA.  Bref, ça ne sentait pas bon pour OBSCURA. Mais vous l'avez forcément deviné, Steffen Kummerer s'en sort bien. On ne va pas passer des heures à décrire la musique d'OBSCURA, qui a finalement peu évolué dans le fond, ni à se demander si cette nouvelle offrande est plus ou moins puissante que la précédente. Akroasis est tout aussi excellent de bout en bout. On y retrouve l'essence du groupe, sa maestria instrumentale (cette basse freteless de Linus Klausenitzer est un pur bonheur), ainsi que sa furie.  Mention spéciale au monumental "The Monist" : franchement, peu de groupes réussissent à si bien marier lourdeur abyssale avec une ambiance cosmique. On sent que le groupe travaille cet équilibre avec une utilisation intelligente des tempos, de la guitare acoustique, de la basse fretless et des différents types de chant. Personnellement, j'aime aussi beaucoup le très aérien "Perpetual Infinity", avec son chant bidouillé et son riffing hystérique.  Tradition oblige, l'album se clôt sur un épique titre de 15 minutes, "Welseele" qui met la basse frestless de Linus Klausenitzer à l'honneur. Le reste du morceau est une sorte de condensé du savoir-faire du groupe.  OBSCURA est clairement un groupe unique, surdoué et qui sait clairement ou il va, avec une constance épatante niveau qualité depuis plus de 10 ans maintenant. L'attente de 5 ans en valait la peine.  VERDICT :  ACHETER
